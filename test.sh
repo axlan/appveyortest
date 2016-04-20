@@ -1,0 +1,1 @@
+echo "fox" > /cygdrive/c/projects/appveyortest/cat.txt
