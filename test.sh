@@ -1,1 +1,1 @@
-echo "fox" > /cygdrive/c/projects/appveyortest/cat.txt
+echo "cat" > /cygdrive/c/projects/appveyortest/cat.txt
